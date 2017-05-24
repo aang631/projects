@@ -1,0 +1,6 @@
+[1219/221930:ERROR:tcp_listen_socket.cc(76)] Could not bind socket to 127.0.0.1:6004
+[1219/221930:ERROR:node_debugger.cc(86)] Cannot start debugger server
+[0111/194617:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0111/194719:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0122/195538:ERROR:tcp_listen_socket.cc(76)] Could not bind socket to 127.0.0.1:6004
+[0122/195538:ERROR:node_debugger.cc(86)] Cannot start debugger server
